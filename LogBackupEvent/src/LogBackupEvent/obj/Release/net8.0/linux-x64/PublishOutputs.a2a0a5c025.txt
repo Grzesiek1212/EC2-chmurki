@@ -1,0 +1,7 @@
+C:\Users\Grzesiu\OneDrive\Pulpit\chmurki\EC2-chmurki\LogBackupEvent\src\LogBackupEvent\bin\Release\net8.0\publish\LogBackupEvent.deps.json
+C:\Users\Grzesiu\OneDrive\Pulpit\chmurki\EC2-chmurki\LogBackupEvent\src\LogBackupEvent\bin\Release\net8.0\publish\LogBackupEvent.runtimeconfig.json
+C:\Users\Grzesiu\OneDrive\Pulpit\chmurki\EC2-chmurki\LogBackupEvent\src\LogBackupEvent\bin\Release\net8.0\publish\LogBackupEvent.pdb
+C:\Users\Grzesiu\OneDrive\Pulpit\chmurki\EC2-chmurki\LogBackupEvent\src\LogBackupEvent\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Grzesiu\OneDrive\Pulpit\chmurki\EC2-chmurki\LogBackupEvent\src\LogBackupEvent\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Grzesiu\OneDrive\Pulpit\chmurki\EC2-chmurki\LogBackupEvent\src\LogBackupEvent\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Grzesiu\OneDrive\Pulpit\chmurki\EC2-chmurki\LogBackupEvent\src\LogBackupEvent\bin\Release\net8.0\publish\LogBackupEvent.dll

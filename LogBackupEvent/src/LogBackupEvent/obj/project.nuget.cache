@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "jEOiaQZKLIA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Grzesiu\\OneDrive\\Pulpit\\chmurki\\EC2-chmurki\\LogBackupEvent\\src\\LogBackupEvent\\LogBackupEvent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Grzesiu\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+    "C:\\Users\\Grzesiu\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\Grzesiu\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\Grzesiu\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.16\\microsoft.netcore.app.runtime.linux-x64.8.0.16.nupkg.sha512",
+    "C:\\Users\\Grzesiu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Grzesiu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\Grzesiu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.16\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.16.nupkg.sha512",
+    "C:\\Users\\Grzesiu\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.16\\microsoft.netcore.app.crossgen2.win-x64.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
