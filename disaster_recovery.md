@@ -6,5 +6,5 @@ System tworzy automatyczne kopie zapasowe bazy danych `poziomka` przy pomocy `sq
 Czas potrzebny na odtworzenie aplikacji oraz przywrócenie bazy danych z backupu to około 30 minut, ponieważ wystarczy uruchomić gotową instancję EC2 i odtworzyć `.bak`.
 
 ### RPO (Recovery Point Objective): 1 dzień
-Backup wykonywany raz dziennie, więc maksymalna strata danych to 24 godziny. JEst wykonywany Codzienie o godzinie 2 w nocy
+Backup wykonywany raz dziennie, więc maksymalna strata danych to 24 godziny. Jest wykonywany Codzienie o godzinie 2 w nocy na obecnym serwerze i o godzinie 3 w nocy jest wykonwany backup na baze stojącą na innym serwerze w innym regione.
 
